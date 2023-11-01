@@ -36,7 +36,7 @@
 
 # 📖 Todo List project <a name="about-project"></a>
 
-> "Todo" This is an app that lets you plan your day using a ToDo list.
+> "Todo" this is an app that lets you plan your day using a ToDo list.
 
 ## 🛠 Built With <a name="built-with"></a>
 
